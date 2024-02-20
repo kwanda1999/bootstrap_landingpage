@@ -1,0 +1,33 @@
+.custom-navbar {
+    background-color: #ff0000; /* Replace #ff0000 with your desired color */
+}
+.header{
+    background-image: url("images/background.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+   }
+
+.description {
+    position: absolute;
+    top: 30%;
+    margin: auto;
+    padding: 2em;
+}
+
+.description h1 {
+    color: black;
+}
+
+.description p{
+    color: black;
+    font-size: 20px;
+    width: 50%;
+    line-height: 1.5;
+}
+
+.description button {
+    border: 1px solid white;
+    background: white;
+    color: black;
+}
