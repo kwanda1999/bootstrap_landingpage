@@ -1,5 +1,5 @@
 .custom-navbar {
-    background-color: #ff0000; /* Replace #ff0000 with your desired color */
+    background-color: #ff0000; 
 }
 .header{
     background-image: url("images/background.jpg");
@@ -31,3 +31,36 @@
     background: white;
     color: black;
 }
+
+.row{
+    margin: 4em 0;
+    padding: 1em;
+    position: relative;
+    
+   }
+   .row h1{
+    color:#F97300;
+    margin: 2em;
+   }
+   .row img{
+    height: 100%;
+       width: 100%;
+       border-radius: 50%
+   }
+
+   .portfolio{
+    margin: 4em 0;
+       position: relative; 
+       align-items: center;
+   }
+   .portfolio h1{
+    color:#f8c293;
+    margin: 2em; 
+   }
+   .portfolio img{
+     height: 100%;
+     width: 100%;
+    
+     
+   }
+  
