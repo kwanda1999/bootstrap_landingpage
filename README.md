@@ -1,2 +1,2 @@
 # bootstrap_landingpage
-Contains the source code for the Bootstrap landing page. 
+Source code will be found on the Master branch.
